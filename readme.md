@@ -24,6 +24,8 @@
 **Conflict Core:** [Primary supernatural tension or triangle]  
 **Theme:** [Overarching thematic focus: decay, war, survival, secrecy, etc.]
 
+This storyteller Book of Knowledge is designed to be a living document of the growth and change in the chronicle from the storyteller's perspecrive. As such, it should not be shared with players.
+
 ## Power Struggle Summary
 
 - **[Faction A Name]** – [Short description of faction A’s current control, behavior, or purpose.]  
