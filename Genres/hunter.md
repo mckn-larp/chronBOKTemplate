@@ -1,4 +1,4 @@
-# Genre: [Genre Name]
+# Genre: Hunter
 
 ---
 
