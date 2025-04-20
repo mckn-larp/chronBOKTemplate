@@ -1,4 +1,4 @@
-## NPC List by Group
+# NPC List by Group
 
 ---
 
@@ -6,9 +6,9 @@ This document provides an overview of all notable NPCs, categorized by their fac
 
 ---
 
-### Template Structure
+## Template Structure
 
-#### Example Group Name
+### Example Group Name
 
 | NPC Name | Title/Role | Key Connections | Faction/Group |
 |---|---|---|---|
@@ -16,7 +16,7 @@ This document provides an overview of all notable NPCs, categorized by their fac
 
 ---
 
-### Sabbat
+## Sabbat
 
 | NPC Name | Title/Role | Key Connections | Faction/Group |
 |---|---|---|---|
@@ -24,7 +24,7 @@ This document provides an overview of all notable NPCs, categorized by their fac
 
 ---
 
-### Garou
+## Garou
 
 | NPC Name | Title/Role | Key Connections | Faction/Group |
 |---|---|---|---|
@@ -32,7 +32,7 @@ This document provides an overview of all notable NPCs, categorized by their fac
 
 ---
 
-### Black Spiral Dancers & Fomori
+## Black Spiral Dancers & Fomori
 
 | NPC Name | Title/Role  | Key Connections | Faction/Group |
 |---|---|---|---|
@@ -40,7 +40,7 @@ This document provides an overview of all notable NPCs, categorized by their fac
 
 ---
 
-### Wraiths
+## Wraiths
 
 | NPC Name | Title/Role | Key Connections | Faction/Group |
 |---|---|---|---|
@@ -48,7 +48,7 @@ This document provides an overview of all notable NPCs, categorized by their fac
 
 ---
 
-### Mages
+## Mages
 
 | NPC Name | Title/Role | Key Connections | Faction/Group |
 |---|---|---|---|
@@ -56,7 +56,7 @@ This document provides an overview of all notable NPCs, categorized by their fac
 
 ---
 
-### Changelings
+## Changelings
 
 | NPC Name | Title | Key Connections  | Faction/Group |
 |---|---|---|---|
@@ -64,7 +64,7 @@ This document provides an overview of all notable NPCs, categorized by their fac
 
 ---
 
-### Hunters
+## Hunters
 
 | NPC Name | Title | Key Connections  | Faction/Group |
 |---|---|---|---|
@@ -72,7 +72,7 @@ This document provides an overview of all notable NPCs, categorized by their fac
 
 ---
 
-### Pentex & Associates
+## Pentex & Associates
 
 | NPC Name | Title/Role | Key Connections | Faction |
 |---|---|---|---|
@@ -80,7 +80,7 @@ This document provides an overview of all notable NPCs, categorized by their fac
 
 ---
 
-### Others (Changeling Breeds, Unique Beings, etc.)
+## Others (Changeling Breeds, Unique Beings, etc.)
 
 | NPC Name | Title | Key Connections | Faction/Group |
 |---|---|---|---|
@@ -88,7 +88,7 @@ This document provides an overview of all notable NPCs, categorized by their fac
 
 ---
 
-### Creatures of Note
+## Creatures of Note
 
 | NPC Name | Title/Role | Key Connections | Faction/Group |
 |---|---|---|---|
