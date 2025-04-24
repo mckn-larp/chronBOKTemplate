@@ -1,3 +1,13 @@
+```
+Chronicle Book of Knowledge
+This is a storyteller & Narrator resource for your chronicle.
+It is designed as a living git repository of your game and its
+growth from the storyteller perspective. It is not merely a
+"peek behind the curtains" - it is the curtains and everything
+beyond in total.
+```
+
+
 <p align="center">
   <img src="[CHRONICLE_LOGO_URL]" alt="[Chronicle Title Logo]" />
 </p>
@@ -83,5 +93,5 @@ This storyteller Book of Knowledge is designed to be a living document of the gr
 
  [Backstory](./Backstory/README.md)  
  [Genre Breakdown](./Genres/readme.md)  
-🧑🤝‍🧑 [NPC Directory](./NPCS/readme.md)  
-📍[Locations & Sites](./Locations/readme.md)
+ [NPC Directory](./NPCS/readme.md)  
+ [Locations & Sites](./Locations/readme.md)
