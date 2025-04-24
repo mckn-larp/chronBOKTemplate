@@ -4,83 +4,66 @@
 
 ## Backstory
 
-[Insert a compelling, in-universe historical narrative about the genre’s presence in your chronicle’s setting. Describe origins, turning points, spiritual/philosophical conflicts, or major historical scars that define the current situation.]
+[Provide historical or mythic context that shaped the faction's relationship to the region. This can include spiritual, political, or environmental catalysts, major disasters, or defining turning points.]
 
-## Overview
+## Presence
 
-**Presence:**  
-[How and where does this supernatural group exist in the setting? Discuss their population, reach, attitude, and methods.]
+[Describe where this faction is currently active. Mention notable regions, strongholds, or patterns of behavior, including tribal, sectarian, or ideological variations.]
 
-**Hierarchy & Structure:**  
-[Describe leadership structures, rank systems, internal factions, or court/tribal/guild models.]
+## Territories
 
-**Objectives:**  
-[List their short-term and long-term goals in the region.]
+- **[Territory Name]** – [Geographic reference or landmark]  
+  - **Core Site**: [The central location of power, influence, or significance—could be spiritual, political, or strategic.]  
+  - **Community**: [The group or leadership based here—can include internal roles, tribal affiliations, or organizational structure.]  
+  - **Perimeter**: [The outer area protected, warded, or contested—include description of defenses, surveillance, or activity.]
 
-**Allies & Enemies:**  
-[Call out key relationships with other supernatural groups, mortal institutions, or internal rivalries.]
+## Objectives
 
-**Major Events:**  
-- ***Event Name (Date/Session)***  
-  _Summary of what happened, who was involved, and how it shaped the genre's current state._
+- **Primary:** [What is the existential or long-term goal of the group?]
+- **Strategic:** [Mid-range goals tied to politics, alliances, or power dynamics.]
+- **Spiritual/Ideological:** [Internal aspirations, redemptions, or beliefs.]
+- **Tactical:** [On-the-ground missions—sabotage, diplomacy, recruitment, war.]
+
+## Key Groups
+
+- **[Group Name] ([Subtype/Role])** – [Brief description of their function, territory, or philosophy.]
+- **[Group Name] ([Subtype/Role])** – [Same.]
+- **[Group Name] ([Subtype/Role])** – [Same.]
+
+## Allies & Enemies
+
+- **Allies:**  
+   - **[Ally Name]** – [Reason for alliance, shared goals, or situational alignment.]
+   - **[Ally Name]** – [Same.]
+
+- **Enemies:**  
+   - **[Enemy Name]** – [Direct threat, ideological opposition, or physical danger.]
+   - **[Enemy Name]** – [Same.]
+
+## Major Events
+
+- **[Event Title]** – [What happened, and why it mattered.]
+- **[Event Title]** – [Same.]
+- **[Event Title]** – [Same.]
 
 ## Points of Interest
 
-- **Esbats/Freeholds/Chantries/Caerns/Haunts/Nodes (as appropriate):**  
-  Provide short descriptions and narrative flavor for locations controlled or contested by this genre.
+[Summarize locations, phenomena, or unresolved elements relevant to the genre. These can include strange occurrences, spiritual hotspots, zones of conflict, or political tension.]
 
-- **Trods/Paths/Spiritual Routes:**  
-  Optional for spiritual factions (Changelings, Garou, Mages) – list pathways, sacred paths, or interdimensional crossroads.
+## Thematic Anchors
 
-## Territories Controlled
+See Chronicle-wide: [Tropes](../Backstory/tropes.md)
 
-[Map out or describe key neighborhoods, wilderness zones, or cities under their influence. Include contested areas or buffer zones.]
+Unique to this genre:
 
-## Key Figures
+- **[Theme A]** – [How this tension manifests within the group.]
+- **[Theme B]** – [Contrasts or fractures in philosophy, tradition, or tactics.]
+- **[Theme C]** – [Spiritual or existential challenges unique to this group.]
 
-- ***[Name](./NPC_Filename.md) – Title***  
-  _One-line role description._  
-  [Expand into motivations, unique roles, and how they influence or embody the genre's themes.]
+## Use in Chronicle
 
-[Repeat as needed.]
+Play this group as:
 
-## Thematic Tropes
-
-### Political  
-[How do they gain/hold power? What factions or ideologies clash within them? What’s the political temperature like right now?]
-
-### Social  
-[How do members of this genre relate to each other? What norms or expectations define their community? How do they interact with mortals or outsiders?]
-
-### Economic  
-[What resources do they control, seek, or exploit? Include mortal businesses, Glamour/Gnosis sources, dream-traffic, crime syndicates, etc.]
-
-### Religion / Faith / Belief / Morals  
-[What spiritual beliefs or philosophies define them? Is faith formal or informal? Include descriptions of ritae, traditions, or sacred practices.]
-
-## Plot Hooks and Open Conflicts
-
-- ***Conflict 1 – Title***  
-  _Summary of conflict (e.g., “Seelie vs Unseelie over trod control”)_
-
-- ***Conflict 2 – Title***  
-  _Summary of threat or mystery (e.g., “Corruption of old sacred site” or “Internal ideological schism”)_
-
-[Add more as needed.]
-
-## Storytelling Notes
-
-- **Tensions to Exploit:**  
-  - [e.g., Old vs New leadership, Technocracy vs Tradition, Wyrm-taint accusations]
-
-- **Recurring Themes:**  
-  - [e.g., Betrayal, spiritual decay, revolution, sacred duty, the cost of power]
-
-- **Inspirations:**  
-  - [Optional media/lore inspirations for tone: e.g., *Princess Mononoke*, *The Wicker Man*, *The Crow*, *Hellboy*, etc.]
-
----
-
-## Tags
-
-`#genre-packet` `#[genre]` `#eastern-tennessee` `#faction-doc` `#trods` `#spiritual-conflict`
+- [Tone or approach suggestion #1 – e.g., secretive scholars resisting assimilation]
+- [Tone or approach suggestion #2 – e.g., survivors wrestling with old guilt]
+- [Tone or approach suggestion #3 – e.g., crusaders whose rage hides regret]

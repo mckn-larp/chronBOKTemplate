@@ -1,6 +1,6 @@
 # [Character Name], [Optional Title]
 
-![Character Portrait](../Media/Character-Name.png)
+![Character Portrait](../Media/mask.png)
 
 ### [Creature Type], [Group], [Affiliation]
 

@@ -1,5 +1,5 @@
 ## [Character Name], [Optional Title]
-![Character Portrait](../Media/Character-Name.png)
+![Character Portrait](../Media/mask.png)
 
 ### [Creature Type], [Group], [Affiliation]
 
@@ -50,8 +50,6 @@
 - **Death State Appearance:**  
 - **Memoria:**  *(Echoes of their past life that remain vivid)*
 
----
-
 ### Character Overview
 
 - **Player:** [NPC or Player Name]  
@@ -61,9 +59,7 @@
 - **Backstory**  
 [Insert character history, origins, motivations, and spiritual journey.]
 
----
-
-### Roleplaying Notes
+#### Roleplaying Notes
 
 - **Voice & Tone:**  
 [Speech pattern, typical phrasing, affectation.]
@@ -91,11 +87,9 @@
 - “Quote 2.”  
 - “Quote 3.”  
 
----
+#### Unresolved Plots and Hooks
 
-### Unresolved Plots and Hooks
-
-#### Plot Hook 1: [Title]
+##### Plot Hook 1: [Title]
 - **Description:**  
 - **First Introduced:**  
 - **Current Status:**  
@@ -103,41 +97,33 @@
 - **Next Steps:**  
 - **Involved NPCs or Factions:**  
 
-#### Plot Hook 2: [Title]
+##### Plot Hook 2: [Title]
 (Same structure as above)
 
----
+#### Ongoing Developments
 
-### Ongoing Developments
-
-#### Development 1: [Title]
+##### Development 1: [Title]
 - **Description:**  
 - **First Introduced:**  
 - **Current Status:**  
 - **Next Steps:**  
 
-#### Development 2: [Title]
+##### Development 2: [Title]
 (Same structure as above)
 
----
+#### Recently Resolved Plots
 
-### Recently Resolved Plots
-
-#### Plot Hook 1: [Title]
+##### Plot Hook 1: [Title]
 - **Description:**  
-- **Resolution Details:**  
-- **Resolved In:**  
-- **Impact on Character:**  
+**Resolution Details:**  
+**Resolved In:**  
+**Impact on Character:**  
 
----
-
-### Character Motivations
+#### Character Motivations
 
 [What drives this character? What are they seeking, fearing, or fighting for?]
 
----
-
-### Important Relationships
+#### Important Relationships
 
 | **NPC Name** | **Role/Title** | **Faction** | **Relationship to Character** |
 |--------------|----------------|-------------|-------------------------------|

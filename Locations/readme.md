@@ -12,7 +12,7 @@
 - **Key NPCs:** [Key NPCs]
 - **Description:**  
 [Description of the site, its importance, any relevant lore, themes, or tensions.]
-- [[Location Name]](./[Genre]_[Location-Slug].md)
+- [[Location Name]](./1_[Location-Slug].md)
 
 <!-- Repeat this format per location as needed for the genre -->
 
@@ -25,9 +25,9 @@
 - **Faction Influence:** 
 - **Key NPCs:** 
 - **Description:**  
-- [[Location Name]](./[Genre]_[Location-Slug].md)
+- [[Location Name]](./[2_[Location-Slug].md)
 
-<!-- Repeat for additional genres: Changeling, Mage, Wraith, Hunter, Other -->
+<!-- Repeat for additional genres: Changeling, Mage, Wraith, Hunter, Other incremending the number for the genre to keep the like areas clustered in the final results -->
 
 ---
 

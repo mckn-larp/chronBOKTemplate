@@ -6,8 +6,6 @@
 
 [Insert a compelling, in-universe historical narrative about the genre’s presence in your chronicle’s setting. Describe origins, turning points, spiritual/philosophical conflicts, or major historical scars that define the current situation.]
 
----
-
 ## Overview
 
 **Presence:**  
@@ -26,8 +24,6 @@
 - ***Event Name (Date/Session)***  
   _Summary of what happened, who was involved, and how it shaped the genre's current state._
 
----
-
 ## Points of Interest
 
 - **Esbats/Freeholds/Chantries/Caerns/Haunts/Nodes (as appropriate):**  
@@ -36,13 +32,9 @@
 - **Trods/Paths/Spiritual Routes:**  
   Optional for spiritual factions (Changelings, Garou, Mages) – list pathways, sacred paths, or interdimensional crossroads.
 
----
-
 ## Territories Controlled
 
 [Map out or describe key neighborhoods, wilderness zones, or cities under their influence. Include contested areas or buffer zones.]
-
----
 
 ## Key Figures
 
@@ -51,8 +43,6 @@
   [Expand into motivations, unique roles, and how they influence or embody the genre's themes.]
 
 [Repeat as needed.]
-
----
 
 ## Thematic Tropes
 
@@ -68,8 +58,6 @@
 ### Religion / Faith / Belief / Morals  
 [What spiritual beliefs or philosophies define them? Is faith formal or informal? Include descriptions of ritae, traditions, or sacred practices.]
 
----
-
 ## Plot Hooks and Open Conflicts
 
 - ***Conflict 1 – Title***  
@@ -79,8 +67,6 @@
   _Summary of threat or mystery (e.g., “Corruption of old sacred site” or “Internal ideological schism”)_
 
 [Add more as needed.]
-
----
 
 ## Storytelling Notes
 
@@ -98,5 +84,3 @@
 ## Tags
 
 `#genre-packet` `#[genre]` `#eastern-tennessee` `#faction-doc` `#trods` `#spiritual-conflict`
-
----
