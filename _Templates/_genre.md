@@ -1,86 +1,108 @@
-# Genre: [Genre Name]
+# Genre: [Supernatural Group Name]
 
 ---
 
 ## Backstory
 
-[Insert a compelling, in-universe historical narrative about the genre’s presence in your chronicle’s setting. Describe origins, turning points, spiritual/philosophical conflicts, or major historical scars that define the current situation.]
+[Brief paragraph establishing the supernatural group's history in the region. Mention ancient conflicts, major disasters, critical alliances, and existential threats. End with the current fragile or embattled state.]
+
+> [Optional motivational or philosophical quote relevant to the group.]
 
 ## Overview
 
 **Presence:**  
-[How and where does this supernatural group exist in the setting? Discuss their population, reach, attitude, and methods.]
+[Describe where the faction is strongest, current population status, and important landmarks or rituals they dominate.]
 
-**Hierarchy & Structure:**  
-[Describe leadership structures, rank systems, internal factions, or court/tribal/guild models.]
+**Leadership:**  
+[List primary leaders and their style of rule—spiritual, militant, political, fractured.]
 
-**Objectives:**  
-[List their short-term and long-term goals in the region.]
+**Goals:**
 
-**Allies & Enemies:**  
-[Call out key relationships with other supernatural groups, mortal institutions, or internal rivalries.]
+- **Short Term:** [Immediate goals—defense, expansion, consolidation.]
+- **Mid Term:** [Tactical ambitions—alliances, sabotage, spiritual growth.]
+- **Long Term:** [Ultimate vision—apocalypse prevention, ascension, annihilation of enemies.]
 
-**Major Events:**  
-- ***Event Name (Date/Session)***  
-  _Summary of what happened, who was involved, and how it shaped the genre's current state._
+## Internal Structure
+
+- [**Name**](../NPCS/[faction]/[Name].md) – [Role and high-level description.]
+- [**Name**](../NPCS/[faction]/[Name].md) – [Role and high-level description.]
+- [Add or subtract based on faction size and organization.]
+
+## Territories & Conflict
+
+**Controlled:**  
+[List key areas under faction control—cities, forests, ruins, umbral domains.]
+
+**Threatened By:**  
+[List major existential threats—internal dissent, enemy factions, spiritual collapse.]
+
+**Expansion Plans:**  
+[Describe geographic, political, or spiritual expansion plans.]
+
+## Religious or Philosophical Outlook
+
+[Describe belief systems. What myths or prophecies drive them? How do they view their enemies? How has spiritual or metaphysical warfare shaped them?]
+
+## Septs, Freeholds, or Sacred Sites (Garou/Changelings/etc)
+
+[List major mystical locations held or contested by the group.]
+
+- **Name of Sept/Freehold/Sacred Site** – [Location and significance.]
+
+## Objectives
+
+- **Primary:** [Most critical duty—defense, resistance, conquest.]
+- **Strategic:** [Subtle goals—alliances, infiltration, protection of resources.]
+- **Spiritual:** [Preservation of faith, magical power, or sacred sites.]
+- **Tactical:** [Direct action—sabotage, warfare, espionage.]
+
+## Key Packs, Courts, or Groups
+
+- **Name (Tribe/House/Court/Pack)** – [Short description of purpose and specialty.]
+
+## Allies & Enemies
+
+**Allies:**  
+- [Faction or group name] – [Nature of the alliance or relationship.]
+
+**Enemies:**  
+- [Faction or group name] – [Conflict drivers and existential threats.]
+
+## Major Events
+
+- **Event Name** – [Brief timeline description and significance.]
+
+[Repeat for each major turning point relevant to the current Chronicle.]
 
 ## Points of Interest
 
-- **Esbats/Freeholds/Chantries/Caerns/Haunts/Nodes (as appropriate):**  
-  Provide short descriptions and narrative flavor for locations controlled or contested by this genre.
+- [Special places tied to magic, memory, or struggle.]
+- [Describe shifting ley lines, corrupted trods, decaying caerns, or urban ruins.]
 
-- **Trods/Paths/Spiritual Routes:**  
-  Optional for spiritual factions (Changelings, Garou, Mages) – list pathways, sacred paths, or interdimensional crossroads.
+## Thematic Anchors
 
-## Territories Controlled
+[Link to Chronicle-wide tropes if available: [Tropes](../Backstory/tropes.md)]
 
-[Map out or describe key neighborhoods, wilderness zones, or cities under their influence. Include contested areas or buffer zones.]
+### Political
+[Summary of political structures, tensions, and betrayals.]
 
-## Key Figures
+### Social
+[Social cohesion, fragmentation, hierarchy, outsider relations.]
 
-- ***[Name](./NPC_Filename.md) – Title***  
-  _One-line role description._  
-  [Expand into motivations, unique roles, and how they influence or embody the genre's themes.]
+### Economic
+[Resource control, commerce, or spiritual economy impact.]
 
-[Repeat as needed.]
+### Faith & Morality
+[Internal moral struggles, existential threats, corrupted or pure faith traditions.]
 
-## Thematic Tropes
+## Use in Chronicle
 
-### Political  
-[How do they gain/hold power? What factions or ideologies clash within them? What’s the political temperature like right now?]
+Play the [faction] as:
 
-### Social  
-[How do members of this genre relate to each other? What norms or expectations define their community? How do they interact with mortals or outsiders?]
+- [First core role and tone: e.g., zealots, guardians, exiles.]
+- [Second emotional layer: e.g., haunted survivors, desperate idealists.]
+- [Third plot layer: e.g., political maneuverers, unwilling monsters.]
 
-### Economic  
-[What resources do they control, seek, or exploit? Include mortal businesses, Glamour/Gnosis sources, dream-traffic, crime syndicates, etc.]
-
-### Religion / Faith / Belief / Morals  
-[What spiritual beliefs or philosophies define them? Is faith formal or informal? Include descriptions of ritae, traditions, or sacred practices.]
-
-## Plot Hooks and Open Conflicts
-
-- ***Conflict 1 – Title***  
-  _Summary of conflict (e.g., “Seelie vs Unseelie over trod control”)_
-
-- ***Conflict 2 – Title***  
-  _Summary of threat or mystery (e.g., “Corruption of old sacred site” or “Internal ideological schism”)_
-
-[Add more as needed.]
-
-## Storytelling Notes
-
-- **Tensions to Exploit:**  
-  - [e.g., Old vs New leadership, Technocracy vs Tradition, Wyrm-taint accusations]
-
-- **Recurring Themes:**  
-  - [e.g., Betrayal, spiritual decay, revolution, sacred duty, the cost of power]
-
-- **Inspirations:**  
-  - [Optional media/lore inspirations for tone: e.g., *Princess Mononoke*, *The Wicker Man*, *The Crow*, *Hellboy*, etc.]
-
----
-
-## Tags
-
-`#genre-packet` `#[genre]` `#eastern-tennessee` `#faction-doc` `#trods` `#spiritual-conflict`
+End with a powerful tone-setting final line:  
+They are not here to [passively exist].  
+They are here to **[claim, defend, destroy, or survive]**.

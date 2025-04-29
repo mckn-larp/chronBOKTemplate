@@ -2,6 +2,8 @@
 
 ---
 
+> Note, re-number these folders and re-order the list above in the order of precedence in your chronicle. This will affect printing and presentation layer.
+
 This document provides an overview of all notable NPCs, categorized by their faction or group, along with their titles, high-level roles, and key connections to other NPCs or factions.
 
 ---

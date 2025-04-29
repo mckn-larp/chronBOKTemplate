@@ -86,12 +86,3 @@ This storyteller Book of Knowledge is designed to be a living document of the gr
 > - [Broader theme: apocalypse, reclamation, awakening, etc.]
 
 [Backstory: Themes & Tropes](./Backstory/tropes.md)
-
----
-
-## Full Repository Index
-
- [Backstory](./Backstory/README.md)  
- [Genre Breakdown](./Genres/readme.md)  
- [NPC Directory](./NPCS/readme.md)  
- [Locations & Sites](./Locations/readme.md)
